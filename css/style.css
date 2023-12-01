@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Caveat:wght@700&family=Croissant+One&family=Dela+Gothic+One&family=Foldit:wght@100;400;500&family=Merriweather:ital,wght@0,900;1,300;1,400;1,700;1,900&family=Yellowtail&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+*{
+    font-family: Agbalumo;
+}
+.card-surat{
+    cursor: pointer;
+    transition: .8s;
+}
+.card-surat:hover{
+    background-color: #217d2b;
+}
+
+div.body{
+    background-image:url(/bg\ islami.jpeg);
+}
+.footer{
+    display: flex;
+    padding: .1rem 0;
+    background-color: #217d2b;
+}
+.footer-text{
+    color: white;
+    font-size: 1.6rem;
+    text-align: center;
+    padding-left: 21rem;
+}
